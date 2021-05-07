@@ -12,7 +12,7 @@ Future code enhancements can be done my making update to BeOnile.py python file.
 ---
 **How to create executable file from the script**
 
-Pyinstaller library helps us to get this achive this
+Pyinstaller library helps us to get this achive 
 
 Below is a command create a executable file
 ```
